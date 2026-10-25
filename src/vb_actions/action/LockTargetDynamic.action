@@ -1,0 +1,11 @@
+# filepath: /home/rosgeek/Documents/vb_tracker/src/vb_actions/action/LockTargetDynamic.action
+# Goal - duration for tracking a moving target
+float32 tracking_duration
+---
+# Result - success or failure
+bool success
+string message
+---
+# Feedback - current tracking errors
+float32 tilt_loss
+float32 pan_loss
