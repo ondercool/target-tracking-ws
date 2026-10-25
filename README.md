@@ -15,7 +15,7 @@ This framework implements a resource-efficient classical vision stack (HSV/Hough
 *   **System Simulation:**
     * [Simulation Youtube Video Link](https://www.youtube.com/watch?v=0KLxBMH--0o)
 *   **System Demo:**
-    <video src="assets/system_demo_gif.mp4" autoplay loop muted playsinline width="100%"></video>
+    <video src="https://github.com/user-attachments/assets/812cba01-a2d6-4b02-a291-5603ca6b961d" autoplay loop muted playsinline width="100%"></video>
 ## Dependencies
 *   Ubuntu 22.04
 *   ROS2 Humble
